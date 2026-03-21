@@ -1,6 +1,6 @@
-<!-- <div align="center">
+ <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,50:928DAB,100:1f1c2c&height=250&section=header&text=Ayush&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20%7C%20Data%20Analytics%20%7C%20GenAI&descAlignY=60&descSize=20" width="100%" />
-</div> -->
+</div> 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=61DAFB&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Ayush+%F0%9F%91%8B;Full+Stack+Developer;Machine+Learning+%7C+Data+Analytics+%7C+Generative+AI;Building+Scalable+and+Impactful+Projects" />
