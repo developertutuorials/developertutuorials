@@ -191,15 +191,18 @@ I focus on building scalable applications, exploring cutting-edge technologies, 
   </picture>
 </p>
 
-<!-- ---
 
-## 👀 Profile Views
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/developertutuorials/count.svg" />
-</p>
+###
+<h3 align="left">🧑‍💻 Visitors :</h3>
 
---- -->
+<div align="left">
+  <img 
+    src="https://komarev.com/ghpvc/?username=Raj-UtsaV&label=Profile%20Views&color=0e75b6&style=flat" 
+    alt="profile views" 
+  />
+</div>
+
 
 ## ✍️ Random Dev Quote
 
