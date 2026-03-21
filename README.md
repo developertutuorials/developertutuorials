@@ -110,11 +110,36 @@ I focus on building scalable applications, exploring cutting-edge technologies, 
 
 ---
 
-# 📊 GitHub Stats:
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developertutuorials&theme=onedark&hide_border=true&ring=61dafb&fire=61dafb&currStreakLabel=61dafb" width="48%" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developertutuorials&theme=onedark&hide_border=true&layout=compact&langs_count=8" width="48%" height="200px" />
+  <picture>
+    <!-- Dark mode -->
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=developertutuorials&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <!-- Light mode -->
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=developertutuorials&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <!-- fallback -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=developertutuorials&theme=default&hide_border=true" width="48%" />
+  </picture>
+
+  <picture>
+    <!-- Dark mode -->
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=developertutuorials&theme=tokyonight&hide_border=true&layout=compact"
+      media="(prefers-color-scheme: dark)"
+    />
+    <!-- Light mode -->
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=developertutuorials&theme=default&hide_border=true&layout=compact"
+      media="(prefers-color-scheme: light)"
+    />
+    <!-- fallback -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developertutuorials&theme=default&hide_border=true&layout=compact" width="48%" />
+  </picture>
 </p>
 
 <!-- <p align="center">
@@ -150,7 +175,20 @@ I focus on building scalable applications, exploring cutting-edge technologies, 
 ## 👾 Pacman Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/developertutuorials/developertutuorials/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph" />
+  <picture>
+    <!-- Dark mode -->
+    <source 
+      srcset="https://raw.githubusercontent.com/developertutuorials/developertutuorials/output/pacman-contribution-graph-dark.svg"
+      media="(prefers-color-scheme: dark)"
+    />
+    <!-- Light mode -->
+    <source 
+      srcset="https://raw.githubusercontent.com/developertutuorials/developertutuorials/output/pacman-contribution-graph.svg"
+      media="(prefers-color-scheme: light)"
+    />
+    <!-- fallback -->
+    <img src="https://raw.githubusercontent.com/developertutuorials/developertutuorials/output/pacman-contribution-graph.svg" />
+  </picture>
 </p>
 
 <!-- ---
@@ -166,11 +204,21 @@ I focus on building scalable applications, exploring cutting-edge technologies, 
 ## ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <picture>
+    <!-- Dark mode -->
+    <source 
+      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <!-- Light mode -->
+    <source 
+      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
+      media="(prefers-color-scheme: light)"
+    />
+    <!-- fallback -->
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+  </picture>
 </p>
-
----
-
 <!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,50:928DAB,100:1f1c2c&height=120&section=footer" />
 </div> -->
